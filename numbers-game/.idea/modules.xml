@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-mini-projects.iml" filepath="$PROJECT_DIR$/java-mini-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numbers-game.iml" filepath="$PROJECT_DIR$/numbers-game.iml" />
     </modules>
   </component>
 </project>
