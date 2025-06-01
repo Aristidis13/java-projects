@@ -11,8 +11,3 @@ A simple console-based number guessing game. The computer randomly selects a num
 - Random number generation
 - Input validation
 - Limited number of guesses (10 tries)
-
-To run the game:
-```bash
-javac NumberGuessingGame.java
-java NumberGuessingGame
